@@ -1,0 +1,30 @@
+body{
+    background-color: #BEC1BB;
+}
+
+.flex-container{
+    border: 1px solid #BEC1BB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e8ebe4;
+} 
+.flex-container img{
+    
+    text-align: center;
+    width: 200px;  
+}
+.imagen-principal{
+    border-radius: 20px;
+} 
+.flex-item{
+    text-align: center;
+}   
+ul li{
+    list-style: none;
+}
+ul img{  
+    border-radius: 50%;
+
+
+}
