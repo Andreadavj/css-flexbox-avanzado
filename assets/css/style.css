@@ -3,28 +3,47 @@ body{
 }
 
 .flex-container{
-    border: 1px solid #BEC1BB;
+    
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100vh;
     background-color: #e8ebe4;
 } 
 .flex-container img{
     
     text-align: center;
-    width: 200px;  
+    width: 200px;
+    
 }
 .imagen-principal{
     border-radius: 20px;
 } 
 .flex-item{
     text-align: center;
+    
+}
+menu{
+    background-color: #fff;
+    min-height: 100vh;
+    width: 15em;
 }   
+
+    
 ul li{
+    
     list-style: none;
 }
 ul img{  
     border-radius: 50%;
+    width: 30%;
 
-
+}
+.formato-padre{
+    position: absolute;
+    display: inline-flex;
+    border: 2px solid #BEC1BB;
+   
+   
+    ;
 }
