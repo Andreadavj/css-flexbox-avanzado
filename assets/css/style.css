@@ -1,20 +1,19 @@
 
 body{
     background-color: #BEC1BB;
-    
+    height: 100%;
 }
 .flex-container{
-    /* margin: 20px 0 20px 0px; */
-    min-height: 100vh;
     display: flex;
-   
+    gap: 2px;
+    
 }
 .item-principal{
     background-color: #fff;
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    width: 25em;
+    width: 300px;
 }
 .item-maria{
     display: flex;
@@ -29,8 +28,6 @@ body{
 }
 div i{
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
 }
 ul li{
     list-style: none;
@@ -134,13 +131,17 @@ button{
     height: 100vh;
     background-color: #e8ebe4;
 }
+
 .pagina-principal{
-    min-height: 100vh;
+    height: 800px;
+    width: 990px;
+    Flex-basis: 1000px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color:  #f6f7f3 ;
+    
 }
 .imagen-empresa{
     border-radius: 20px;
@@ -148,4 +149,5 @@ button{
 }
 .img-h1-p{
     text-align: center;
+    justify-content: center;
 } 
