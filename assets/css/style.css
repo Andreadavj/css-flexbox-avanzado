@@ -4,6 +4,7 @@
   body {
     min-height: 100vh;
     min-width: 100vh;
+    background-color: #bec1bb;
   }
   
   .contacto {
@@ -29,6 +30,7 @@
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 40px;
+    
   }
   .contact-title {
     display: flex;
