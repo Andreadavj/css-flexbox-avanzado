@@ -1,6 +1,3 @@
-* {
-  font-family: "Roboto", open sans-regular;
-}
 body {
   min-height: 100vh;
   min-width: 100vh;
@@ -44,6 +41,7 @@ body {
   font-size: 1.2rem;
   margin: 0;
   padding: 2px;
+  font-family: "Roboto", sans-serif;
   font-weight: 200;
   font-style: normal;
 }
@@ -52,6 +50,7 @@ body {
   margin: 0;
   padding: 5px;
   color: #828485;
+  font-family: "Roboto", sans-serif;
   font-weight: 200;
   font-style: normal;
 }
@@ -92,6 +91,7 @@ body {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
@@ -105,7 +105,7 @@ body {
   background-color: #d4dcff;
   transition: background-color 0.5s ease;
 }
-
+/* columna numero dos  */
 .flex-container {
   background-color: #fbf8f1;
   display: flex;
@@ -128,6 +128,7 @@ body {
   padding: 5px;
   font-size: 2.7rem;
   margin: 0px;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-style: normal;
 }
@@ -137,6 +138,7 @@ body {
   font-size: 1.2rem;
   padding: 0;
   margin: 0;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-style: normal;
 }
