@@ -2,11 +2,13 @@ body {
   min-height: 100vh;
   min-width: 100vh;
   background-color: #bec1bb;
+  margin: 10px;
 }
 
 .contacto {
   display: flex;
   flex: 0 0 0;
+
 }
 
 .aside-menu-contacto {
@@ -27,6 +29,7 @@ body {
   padding-bottom: 6px;
   padding-left: 40px;
 }
+
 .contact-title {
   display: flex;
   justify-content: space-around;
